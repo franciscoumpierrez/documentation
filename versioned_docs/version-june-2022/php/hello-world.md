@@ -21,7 +21,7 @@ First we'll get you running code, and then we'll explain the code.
 **1. Download the repository.**
 
 ```bash
-$ git clone git@github.com:temporalio/samples-php.git
+$ git clone https://github.com/temporalio/samples-php.git
 $ cd samples-php
 ```
 
